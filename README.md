@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**santinoaued/santinoaued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi, I'm Santino 👾</h1>
+  <p>Game Developer · Entre Rios, Argentina 🧉</p>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+- 🎮 Game developer focused on gameplay programming and 3D art.
+- 🧊 Working with **Unreal Engine 5**, **Unity** and **Blender**.
+- 📐 Learning HP/LP retopology, baked textures, Blueprints and C#.
+- 📖 Studying Videogame Development and Production at Universidad Tecnologica Nacional.
+- 🌐 Based in Entre Rios, Argentina.
+
+---
+
+## Tech stack
+
+![UE5](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+## Featured projects
+
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Get in touch
+
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santino-aued.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santino-aued-148672252/)
