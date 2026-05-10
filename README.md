@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Santino 👾</h1>
+  <h1>Hi, I'm Santino</h1>
   <p>Game Developer · Entre Rios, Argentina 🧉</p>
 
 </div>
