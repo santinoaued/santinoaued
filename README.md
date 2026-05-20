@@ -26,11 +26,6 @@
 
 ---
 
-## Featured projects
-
-
----
-
 ## Get in touch
 
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santino-aued.itch.io/)
