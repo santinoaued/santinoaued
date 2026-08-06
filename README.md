@@ -9,11 +9,11 @@
 
 ## About me
 
-- 🎮 Game developer focused on gameplay programming and 3D art.
-- 🧊 Working with **Unreal Engine 5**, **Unity** and **Blender**.
-- 📐 Learning HP/LP retopology, baked textures, Blueprints and C#.
-- 📖 Studying Videogame Development and Production at Universidad Tecnologica Nacional.
-- 🌐 Based in Entre Rios, Argentina.
+- Game developer focused on gameplay programming and 3D art.
+- Working with **Unreal Engine 5**, **Unity** and **Blender**.
+- Learning HP/LP retopology, baked textures, Blueprints and C#.
+- Studying Videogame Development and Production at Universidad Tecnologica Nacional.
+- Based in Entre Rios, Argentina.
 
 ---
 
