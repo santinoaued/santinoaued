@@ -28,6 +28,6 @@
 
 ## Get in touch
 
-[![Portfolio](https://img.shields.io/badge/portfolio-brightgreen?style=for-the-badge)](https://santinoaued.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-darkgreen?style=for-the-badge)](https://santinoaued.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santino-aued.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santino-aued-148672252/)
